@@ -4,7 +4,7 @@ public class Ejemplo {
     String m1;
     
     m1 = "Hola Mundo!";
-    
-  }
+    System.out.println(m1);
   
+  }
 }
