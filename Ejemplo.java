@@ -5,6 +5,10 @@ public class Ejemplo {
     
     m1 = "Hola Mundo prros!";
     System.out.println(m1);
-  
+
+    m1 = "mensaje2";
+
+
+	  
   }
 }
