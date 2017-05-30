@@ -7,7 +7,7 @@ public class Ejemplo {
     System.out.println(m1);
 
     m1 = "mensaje2";
-
+    System.out.println(m2);
 
 	  
   }
